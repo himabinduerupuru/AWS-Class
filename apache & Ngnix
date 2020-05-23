@@ -35,3 +35,6 @@ rm -rf /usr/share/nginx/html/*
 wget https://github.com/BlackrockDigital/startbootstrap-coming-soon/archive/gh-pages.zip
 unzip gh-pages.zip
 cp -R startbootstrap-coming-soon-gh-pages/* /usr/share/nginx/html/
+
+
+Hi this is mohan
